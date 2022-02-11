@@ -1,6 +1,6 @@
 # A text-embedding-based approach to measuring patent-to-patent technological similarity
 
-This repository proo
+This repository provides adittional documentation and material to the following paper:
 
 
 * Daniel S. Hain, Roman Jurowetzki, Tobias Buchmann, Patrick Wolf, A text-embedding-based approach to measuring patent-to-patent technological similarity, Technological Forecasting and Social Change, Volume 177, 2022, DOI: [10.1016/j.techfore.2022.121559](https://doi.org/10.1016/j.techfore.2022.121559)
