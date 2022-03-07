@@ -27,7 +27,7 @@ It contains the following elements:
 
 ### Reproducing the model
 
-Before running any code you must install Python3.8+ and requirement libraries:
+Before running any code you must install Python3.7+ and requirement libraries:
 * Numpy 1.21.5
 * Gensim 4.1.2
 
