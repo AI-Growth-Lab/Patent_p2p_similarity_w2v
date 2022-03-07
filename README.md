@@ -25,10 +25,19 @@ It contains the following elements:
 * Code and demo how to create aggregated statistics based on p2p similarity measures.
 * Full data on created p2p similarity measueres
 
+Reproducing the model:
+
+Before running any code you must install Python3.8+ and requirement libraries:
+* Numpy 1.21.5
+* Gensim 4.1.2
+
+The dataset includes 1k patent abstracts as patent_dtatset_sample_1k.csv.
+
+The notebook (Patent_W2V_v2_version2.ipynb) contains all process for preprocessing, training word2vec, computing embeddings, and building trees to tune Annoy (Approximate Nearest Neighbors Oh Yeah).
 
 Queries, comments, and feedback always welcome :)
 
-Also, check out the newest version of SBERT based p2p simialrity measures and automated patent classificationb.
+Also, check out the newest version of SBERT based p2p simialrity measures and automated patent classification.
 
 * [Github](https://github.com/AI-Growth-Lab/Patent-Classification)
 * [arXiv](https://arxiv.org/abs/2103.11933)
