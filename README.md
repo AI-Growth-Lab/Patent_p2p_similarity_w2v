@@ -6,7 +6,7 @@ This repository provides adittional documentation and material to the following 
 * Daniel S. Hain, Roman Jurowetzki, Tobias Buchmann, Patrick Wolf, A text-embedding-based approach to measuring patent-to-patent technological similarity, Technological Forecasting and Social Change, Volume 177, 2022, DOI: [10.1016/j.techfore.2022.121559](https://doi.org/10.1016/j.techfore.2022.121559)
 * ArXiv preprint version [here](https://arxiv.org/abs/2003.12303)
 
-Abstract
+## Abstract
 
 This paper describes an efficiently scaleable approach to measuring technological similarity between patents by combining embedding techniques from natural language processing with nearest-neighbor approximation. Using this methodology, we are able to compute similarities between all existing patents, which in turn enables us to represent the whole patent universe as a technological network. We validate both technological signature and similarity in various ways and, using the case of electric vehicle technologies, demonstrate their usefulness in measuring knowledge flows, mapping technological change, and creating patent quality indicators. This paper contributes to the growing literature on text-based indicators for patent analysis. 
 
@@ -25,7 +25,7 @@ It contains the following elements:
 * Code and demo how to create aggregated statistics based on p2p similarity measures.
 * Full data on created p2p similarity measueres
 
-Reproducing the model:
+Reproducing the model
 
 Before running any code you must install Python3.8+ and requirement libraries:
 * Numpy 1.21.5
