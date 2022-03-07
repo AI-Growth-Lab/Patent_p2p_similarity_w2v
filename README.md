@@ -28,8 +28,8 @@ It contains the following elements:
 ### Reproducing the model
 
 Before running any code you must install Python3.7+ and requirement libraries:
-* Numpy 1.21.5
-* Gensim 4.1.2
+* Numpy 1.21+
+* Gensim 4.1+
 
 The dataset includes 1k patent abstracts as patent_dtatset_sample_1k.csv.
 
