@@ -41,5 +41,6 @@ Queries, comments, and feedback always welcome :)
 
 Also, check out the newest version of SBERT based p2p simialrity measures and automated patent classification.
 
+* [Colab Demo notebooks](https://colab.research.google.com/github/AI-Growth-Lab/Patent_p2p_similarity_w2v/blob/main/Patent_W2V_v2_version2_Example.ipynb)
 * [Github](https://github.com/AI-Growth-Lab/Patent-Classification)
 * [arXiv](https://arxiv.org/abs/2103.11933)
