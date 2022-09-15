@@ -5,7 +5,8 @@ This repository provides adittional documentation and material to the following 
 
 * Daniel S. Hain, Roman Jurowetzki, Tobias Buchmann, Patrick Wolf, A text-embedding-based approach to measuring patent-to-patent technological similarity, Technological Forecasting and Social Change, Volume 177, 2022, DOI: [10.1016/j.techfore.2022.121559](https://doi.org/10.1016/j.techfore.2022.121559)
 * ArXiv preprint version [here](https://arxiv.org/abs/2003.12303)
-P2P Technological Similarity example: For patent2patent similarity, TF-IDF Weighted W2V was used. For the purpose of testing p2p similarity, we used only 1000 patent abstracts. You can check all steps in the notebook. 
+
+* P2P Technological Similarity example: For patent2patent similarity, TF-IDF Weighted W2V was used. For the purpose of testing p2p similarity, we used only 1000 patent abstracts. You can check all steps in the notebook. https://colab.research.google.com/github/AI-Growth-Lab/Patent_p2p_similarity_w2v/blob/main/Patent_W2V_v2_version2_Example.ipynb
 
 ### Abstract
 
