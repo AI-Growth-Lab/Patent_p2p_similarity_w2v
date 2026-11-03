@@ -1,2 +1,7 @@
 .env
 .vscode/
+*.parquet
+intermed/*
+!intermed/.gitkeep
+output/*
+!output/.gitkeep

@@ -1,6 +1,7 @@
 [path]
 input = "input"
 output = "output"
+intermed = "intermed"
 
 [sql]
 host = 's-harhoffdb1'
@@ -8,16 +9,17 @@ port = 3306
 schema = 'patstat_s26'
 
 [bigram]
-min_count = 500
-threshold = 10
+min_count = 2      # minimum times a word pair must occur in the corpus before it can be merged into one phrase token
+threshold = 1      # minimum collocation score for merging a pair; higher means fewer, stronger phrases
 
 [word2vec]
-vector_size = 300
-window = 8
-min_count = 20
+vector_size = 300  # number of dimensions of each word embedding and of the resulting patent signature vector
+window = 3         # maximum distance between the target word and the context words used to predict it
+min_count = 1      # words occurring fewer times than this are dropped from the vocabulary and get no embedding
+epochs = 5         # number of full training passes over the corpus
 
 [similarity]
-trees = 100
-search_k = 100
-threshold = 0.5
-upto = 500
+trees = 10         # number of random-projection trees in the Annoy index; more trees give better accuracy but a bigger, slower-to-build index
+search_k = 5       # number of index nodes inspected per query; higher gives more accurate neighbours at the cost of speed
+thr = 0.65         # cosine similarity cut-off; neighbour pairs below this value are discarded
+upto = 500         # maximum number of nearest neighbours retrieved per patent when searching for pairs above the cut-off
