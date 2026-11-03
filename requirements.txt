@@ -1,0 +1,38 @@
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1783975656336/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+comm @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_comm_1753453984/work
+debugpy @ file:///D:/bld/bld/rattler-build_debugpy_1793558448/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1791894581174/work
+gensim @ file:///D:/bld/gensim_1790096125245/work
+ipykernel @ file:///D:/bld/bld/rattler-build_ipykernel_1790707935/work
+ipython @ file:///D:/bld/bld/rattler-build_ipython_1793618912/work
+ipython_pygments_lexers @ file:///home/conda/feedstock_root/build_artifacts/ipython_pygments_lexers_1737123620466/work
+jedi @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jedi_1791846014/work
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jupyter_client_1787929615/work
+jupyter_core @ file:///D:/bld/bld/rattler-build_jupyter_core_1760643889/work
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1778264321245/work
+nest-asyncio2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_nest-asyncio2_h5ded981_1793096318/work
+numpy @ file:///D:/bld/bld/rattler-build_numpy_1791675323/work/dist/numpy-2.5.4-cp312-cp312-win_amd64.whl#sha256=138bbe5b08c09ae9ec871eff62a37b7a4212e5834d278ac7c37e3bbc22c7e804
+packaging==26.3
+pandas @ file:///D:/bld/bld/rattler-build_pandas_1792679045/work
+parso @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_parso_1777722955/work
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_platformdirs_h5ded981_1793634925/work
+prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1785160527032/work
+psutil @ file:///D:/bld/bld/rattler-build_psutil_1789682050/work
+pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1789159354067/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pygments_1786995678/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_h5ded981_1793535232/work
+pywin32 @ file:///D:/bld/bld/rattler-build_pywin32_1789685718/work
+pyzmq @ file:///D:/bld/bld/rattler-build_pyzmq_1789730188/work
+scipy @ file:///D:/bld/scipy-split_1792929789694/work/dist/scipy-1.18.1-cp312-cp312-win_amd64.whl#sha256=9d1e0096bfc52ab40fe4921a2797b56011d22d9faa3347c84106c6a801c6cdeb
+setuptools==84.2.1
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+smart_open @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_smart_open_h5ded981_1793365522/work/dist
+stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
+tornado @ file:///D:/bld/tornado_1789911001518/work
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_traitlets_1785761789/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1783002732/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-tzdata_h5ded981_1793205938/work
+wcwidth @ file:///D:/bld/bld/rattler-build_wcwidth_1792880434/work
+wheel==0.48.0
+wrapt @ file:///D:/bld/bld/rattler-build_wrapt_1793358800/work

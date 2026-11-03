@@ -1,0 +1,23 @@
+[path]
+input = "input"
+output = "output"
+
+[sql]
+host = 's-harhoffdb1'
+port = 3306
+schema = 'patstat_s26'
+
+[bigram]
+min_count = 500
+threshold = 10
+
+[word2vec]
+vector_size = 300
+window = 8
+min_count = 20
+
+[similarity]
+trees = 100
+search_k = 100
+threshold = 0.5
+upto = 500
